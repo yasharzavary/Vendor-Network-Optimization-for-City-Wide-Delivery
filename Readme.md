@@ -49,9 +49,7 @@ To run this project, you will need **Python 3.11** or an older version and the r
 
 ## Usage
 
-The main function in this project is `optimize_vendors`, where you can define the number of vendors you want to select. For example:
-
-If you have 5 vendors in the city and wish to select 3 vendors based on both user coverage and vendor score, this project will calculate the optimal selection and display the results visually on a map.
+The main function in this project is `optimize_vendors`, where you can define the number of vendors you want to select.
 
 ### Example:
 
